@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.auto-dismiss').forEach(x=>setTimeout(()=>x.remove(),4000)));
